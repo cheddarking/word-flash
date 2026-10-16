@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+publish/
+TestResults/
+data/source/
+.claude/
+spec.txt

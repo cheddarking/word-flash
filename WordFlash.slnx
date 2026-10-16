@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WordFlash.App/WordFlash.App.csproj" />
+    <Project Path="src/WordFlash.Core/WordFlash.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WordFlash.Tests/WordFlash.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/WordFlash.DataGen/WordFlash.DataGen.csproj" />
+  </Folder>
+</Solution>
